@@ -1,0 +1,22 @@
+body{
+  background-color: aqua;
+}
+h1{ 
+  color:black;
+  padding: 20px 20px;
+}
+input[type=text] {
+  border: 2px solid black;
+  padding: 5px 190px;
+  border-radius: 2px;
+}
+p {
+  border: none;
+  color:black;
+  text-align: center;
+  font-size: 16px;
+  margin: 3px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  text-decoration: none;
+}
